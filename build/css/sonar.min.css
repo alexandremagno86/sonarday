@@ -1,0 +1,5 @@
+.col__hidden {display:none;}
+.col {display:none;}
+.col.woty {display:block;}
+.shape,.shapes {display:none;}
+.judge__job {letter-spacing: 2px!important;}
